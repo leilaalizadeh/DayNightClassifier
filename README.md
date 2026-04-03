@@ -36,3 +36,6 @@ The classifier uses a two-stage feature extraction process:
 1. Update the `image_dir_training` and `image_dir_test` paths in the notebook to point to your dataset.
 2. Run the cells to process the images, extract features, and view the final accuracy report.
 
+
+
+
