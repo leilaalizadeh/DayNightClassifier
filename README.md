@@ -1,6 +1,6 @@
-# Day-Night Image Classifier (99% Accuracy)
+# Day-Night Image Classifier (99.37% Accuracy)
 
-This repository contains a high-performance image classification system that distinguishes between **Day** and **Night** images using **pure Image Processing** techniques. By leveraging OpenCV and color space analysis, this project achieves **99% accuracy** without the use of any Machine Learning algorithms.
+This repository contains a high-performance image classification system that distinguishes between **Day** and **Night** images using **pure Image Processing** techniques. By leveraging OpenCV and color space analysis, this project achieves **99.37% accuracy** without the use of any Machine Learning algorithms.
 
 ## 🚀 The Challenge
 Standard brightness analysis (averaging pixel values) often fails when night images contain bright street lights or day images are overcast. To achieve 99% accuracy, this implementation uses a multi-feature approach to evaluate both intensity and specific color distributions.
